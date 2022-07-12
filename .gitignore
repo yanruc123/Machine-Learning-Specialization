@@ -9,3 +9,10 @@ Supervised Machine Learning Regression and Classification/Week3/__pycache__/util
 Supervised Machine Learning Regression and Classification/Week3/test_utils.py
 Supervised Machine Learning Regression and Classification/Week3/public_tests.py
 Supervised Machine Learning Regression and Classification/Week3/utils.py
+*.pyc
+Advanced Learning Algorithms/Week1/data/y.npy
+Advanced Learning Algorithms/Week1/data/X.npy
+Advanced Learning Algorithms/Week1/images/C2_W1_dense.PNG
+Advanced Learning Algorithms/Week1/utils.py
+Advanced Learning Algorithms/Week1/public_tests.py
+Advanced Learning Algorithms/Week1/autils.py
